@@ -26,7 +26,12 @@ Develop a voting application using Hyperledger and Ethereum. Build a decentraliz
 Create a block chain app for loyalty points with Hyperledger Fabric Ethereum Virtual Machine. Deploy Fabric locally with EVM and create a proxy for interacting with a smart contract through a Node.js web app
 
 
+
+
+
 ## Practicles recommended by AICTE
+
+
 
 ## Practical 1
 Install and understand Docker container, Node.js, Java and Hyperledger Fabric, Ethereum and perform necessary software installation on local machine/create instance on Cloud to run.
